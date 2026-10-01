@@ -1,0 +1,14 @@
+Built-in image generation used.
+Box prompt: Premium charcoal-gray/yellow 3D Shootmagic Album Maxx 2027 software packaging; Indian wedding photo mosaic, matte finish, studio lighting, legible Shootmagic / Album Maxx / 2027 typography.
+Album prompt: Premium editorial Indian wedding double-page demo album spread, couple portrait, bridal portrait and ceremonial hands, ivory/gold margins, no text or logos.
+Both are generated demo marketing art, not real app screenshots or demonstrated software output.
+
+V12 built-in image generation: AI Studio rounded-square cyan/violet aperture and AI-chip icon; AI Studio navy/cyan/violet software box with white Shootmagic and consistent italic product typography, generated icon on front. PDF box navy/coral with white Shootmagic, coral PDF and white Converter; wedding pages to PDF artwork. PDF box edit: replace lower-right document graphic with uploaded red .pdf booklet icon, preserve brand/text/artwork.
+
+V12 built-in image generation: AI Studio rounded-square cyan/violet aperture and AI-chip icon; AI Studio navy/cyan/violet software box with white Shootmagic and consistent italic product typography, generated icon on front. PDF box navy/coral with white Shootmagic, coral PDF and white Converter; wedding pages to PDF artwork. PDF box edit: replace lower-right document graphic with uploaded red .pdf booklet icon, preserve brand/text/artwork.
+
+V13 built-in image generation prompts: premium rounded-square midnight blue app icon, sculpted white S ribbon and four-point sparkle, restrained teal/amber accents, transparent exterior, no aperture/microchip/neon rainbow/text. Box edit: replace front and spine icons with this S sparkle icon, refresh navy/teal/amber packaging, preserve white Shootmagic, italic AI Studio, AI PHOTO TOOLS and portrait collage, full box with margin, transparent exterior.
+
+V17 built-in banner prompt: restrained premium panoramic 3:1 charcoal/navy/gold editorial launch ad, established white Shootmagic/Album, gold Maxx and outlined 2027 lockup; ₹3499 launch, crossed ₹6000,42% OFF,1 PC/1 Year, four short features; one album and compact box, no neon or starburst or busy collage, bottom margin for caption overlay.
+
+V18 built-in image generation, four separate 3:2 illustrative editorial photographs: Indian Shootmagic launch seminar with album-design projector; hands-on photographer training workshop; photography trade-show software stall; photographer networking around printed wedding album. Navy/gold signage, realistic candid scenes, no frames or collages. Not documented real events.
