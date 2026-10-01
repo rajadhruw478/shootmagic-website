@@ -56,3 +56,22 @@ html[data-theme="dark"]{--page:#101010;--panel:#1c1c1c;--panel-alt:#171717;--lin
 
 /* V23 restrained italic profile names and bottom social alignment. */
 .about-page .about-panels .about-script{font-family:'Manrope','Segoe UI',Arial,sans-serif;font-style:italic;font-weight:700;font-size:clamp(30px,3vw,40px);line-height:1.25;letter-spacing:-.6px;margin:8px 0 18px}.about-page .about-work-panel .about-script{color:#e5c36a}.about-page .about-founder-panel .about-script{color:#72c9bd}.about-page .about-script span{font-style:normal;letter-spacing:1px;font-size:18px;color:var(--text)}html[data-theme="light"] .about-page .about-work-panel .about-script{color:#8b650e}html[data-theme="light"] .about-page .about-founder-panel .about-script{color:#176e65}.about-panel-actions .founder-instagram{margin:0;align-self:center;margin-left:auto}@media(max-width:575px){.about-page .about-panels .about-script{font-size:32px}.about-panel-actions .founder-instagram{margin-left:0}}
+
+/* Mobile navigation must use the viewport, not the blurred header bounds. */
+.header{z-index:1100}
+@media(max-width:1199px){
+  body.mobile-nav-active .header{
+    backdrop-filter:none;-webkit-backdrop-filter:none;
+    transform:none;filter:none;perspective:none;overflow:visible;
+  }
+  body.mobile-nav-active .header .navmenu{
+    position:fixed;inset:0;width:100%;height:100dvh;
+    z-index:9997;background:rgba(0,0,0,.78);
+  }
+  body.mobile-nav-active .navmenu>ul{
+    position:absolute;inset:70px 16px 20px;display:block;
+    max-height:calc(100dvh - 90px);overflow-y:auto;
+    overscroll-behavior:contain;background:var(--nav-mobile-background-color);
+  }
+  body.mobile-nav-active .mobile-nav-toggle{z-index:9999}
+}
